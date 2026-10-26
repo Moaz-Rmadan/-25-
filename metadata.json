@@ -1,0 +1,6 @@
+{
+  "name": "النجار فيرنيتشر",
+  "description": "معرض أثاث في مصر، يقدم تصاميم عصرية وأنيقة لغرف النوم، المعيشة، والسفرة بجودة عالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
